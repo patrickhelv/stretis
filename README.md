@@ -22,7 +22,9 @@ practice learning C.
 In terminal 
 - gcc stetris.c -o stetris
 - ./stetris
+
 OR
+
 - make
 - make run
 To delete object file.
