@@ -11,6 +11,10 @@ practice learning C.
 ### Video
 
 
+https://user-images.githubusercontent.com/113537402/190219309-d4ef9c78-f7e3-4386-94a6-c18f08591936.mp4
+
+
+
 ## Requirements
 
 - Raspberry pi with a supported linux operating system
@@ -20,14 +24,19 @@ practice learning C.
 
 ### To Run 
 In terminal 
-- gcc stetris.c -o stetris
-- ./stetris
+```properties
+gcc stetris.c -o stetris
+./stetris
+```
 
 OR
+```properties
+make
+make run
+```
 
-- make
-- make run
 To delete object file.
-- make clean
-
+```properties
+make clean
+```
 
