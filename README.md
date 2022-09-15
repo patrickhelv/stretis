@@ -35,7 +35,7 @@ make
 make run
 ```
 
-To delete object file.
+To delete object file
 ```properties
 make clean
 ```
